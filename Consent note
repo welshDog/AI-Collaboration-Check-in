@@ -1,0 +1,9 @@
+## Consent and privacy
+
+This tool should default to:
+- Current chat only.
+- No memory access unless the user opts in.
+- Clear explanation of what data is being used.
+- A reset option for wiping the working-style profile.
+
+The goal is to make the experience helpful without pretending to be emotionally aware.
